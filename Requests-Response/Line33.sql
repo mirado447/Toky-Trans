@@ -1,4 +1,4 @@
---Line 30 / 33 : les vehicules utilisés pour un voyage / Qui est le chauffeur qui conduira lors d'un voyage?--
+--Line 33 : Qui est le chauffeur qui conduira lors d'un voyage?--
 WITH ville_arrivee (id_ville,nom_ville_arrivee) AS (SELECT id_ville,nom_ville FROM ville)
 SELECT nom_complet, matricule, nom_ville, nom_ville_arrivee, jour_depart, heure_depart FROM ville 
         INNER JOIN voyage ON ville.id_ville=voyage.id_ville_depart 
