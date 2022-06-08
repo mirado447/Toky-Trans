@@ -6,3 +6,5 @@ insert into maintenance (cout, nom_maintenance) values (200000,'batterie');
 insert into maintenance (cout, nom_maintenance) values (20000,'filtre');
 insert into maintenance (cout, nom_maintenance) values (60000,'suspension');
 insert into maintenance (cout, nom_maintenance) values (20000,'courroie');
+insert into maintenance (cout, nom_maintenance) values (200000,'batterie');
+insert into maintenance (cout, nom_maintenance) values (20000,'filtre');
