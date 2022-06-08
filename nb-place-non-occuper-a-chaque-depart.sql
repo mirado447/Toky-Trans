@@ -1,0 +1,1 @@
+select id_vehicule,places_dispo from vehicule where id_vehicule=3;
