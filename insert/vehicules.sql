@@ -18,7 +18,11 @@ insert into vehicules (nombre_places, places_dispo, matricule) values (16, 10, '
 insert into vehicules (nombre_places, places_dispo, matricule) values (16, 1, '1654570');
 insert into vehicules (nombre_places, places_dispo, matricule) values (16, 9, '7009719');
 insert into vehicules (nombre_places, places_dispo, matricule) values (16, 0, '1084973');
+<<<<<<< HEAD
 insert into vehicules (nombre_places, places_dispo, matricule) values (16, 11, '1028947');
+=======
+insert into vehicules (nombre_places, places_dispo, matricule) values (16, 0, '1028947');
+>>>>>>> 07b9b117f04d3025728d4e57cd873686f99570a9
 insert into vehicules (nombre_places, places_dispo, matricule) values (16, 2, '2050985');
 insert into vehicules (nombre_places, places_dispo, matricule) values (16, 3, '7519677');
 insert into vehicules (nombre_places, places_dispo, matricule) values (16, 4, '9783310');
