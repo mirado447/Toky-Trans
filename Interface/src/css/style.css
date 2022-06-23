@@ -1,0 +1,59 @@
+.table{
+    border-radius:20px;
+    background-color: white;
+}
+.table td{
+    padding-left:4.4vw;
+    padding-right:4.4vw;
+}
+.bodyTable{
+    text-align:left;
+}
+.topOfTable{
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    border:1px solid black;
+}
+.search{
+    border: 1px solid black;
+    border-radius: 5px;
+    position: absolute;
+    width: 120px;
+    height:25px;
+}
+.modale{
+    position: fixed;
+    height:50px;
+    border:1px solid black;
+    z-index: 99;
+    background-color:rgb(255, 251, 251);
+    padding-top:20px;
+    margin-left: 20px;
+}
+.modale .croix{
+    position: absolute;
+    right: 0;
+    top:0
+}
+.modale button{
+    margin-left:60px;
+}
+.sombre{
+    background-color: rgba(64, 64, 64, 0.614);
+    position: fixed;
+    width: 200%;
+    height: 200%;
+    top:0;
+    left:0;
+    z-index:99;
+}
+.completeTable{
+    margin:200px;
+    height:50vh;
+    border:1px solid black;
+    width:inherit;
+    border-radius:15px;
+}
+.labelOfTable{
+    position: absolute;
+}
