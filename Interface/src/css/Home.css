@@ -1,9 +1,3 @@
-img{
-    width: 100%;
-    height: auto;
-    position: absolute;
-    z-index: 0;
-  }
   .title{
     position: absolute;
     padding: 5%;
